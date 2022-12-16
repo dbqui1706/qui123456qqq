@@ -63,7 +63,7 @@
 <br>
   <ul> 
     <li>
-    <a href="https://coursera.org/share/8cca11e9a2460f5ea523019b80716f7e" target="_blank">Machine Learning SpecializationMachine Learning Specialization</a>
+    <a href="https://coursera.org/share/8cca11e9a2460f5ea523019b80716f7e" target="blank">Machine Learning SpecializationMachine Learning Specialization</a>
       <br>Issued Dec 2022 · No Expiration DateIssued Dec 2022 · No Expiration Date
       <br>Credential ID: LW6JPGUZ7RHR
       <br>
