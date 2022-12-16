@@ -59,7 +59,7 @@
   </a>
 </div>
 <br>
-<h2 align="center">📖 I have studied courses 📖</h2>
+<h2 align="center">📖 Licenses & certifications 📖</h2>
 <br>
   <ul> 
     <li>
