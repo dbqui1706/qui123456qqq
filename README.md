@@ -51,7 +51,7 @@
   <a href="https://www.facebook.com/profile.php?id=100054991307703" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="_blank">
+  <a href="https://www.linkedin.com/in/q%C3%BAi-%C4%91%E1%BA%B7ng-04a046254/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="mailto:dbqui1706@gmail.com" target="top">
